@@ -1,0 +1,5 @@
+text1 = input('Digite algo: ')
+print(text1.split())
+text2 = text1.join(' ')
+print(text2)
+# print(text2.join())
