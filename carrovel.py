@@ -4,4 +4,3 @@ if v > 80:
     print(f'Multado! Sua multa é de R${overpay}')
 else: 
     print('Não foi multado.')
-    
